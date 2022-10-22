@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PeterAlbus&show_icons=true&icon_color=ffffff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+
 ### Hello world! 👋
 
 - :eight_pointed_black_star: I'm PeterAlbus.
@@ -6,4 +8,4 @@
 - :signal_strength: I am developing and maintaining my personal [blog](https://peteralbus.com).
 - 🌱 I’m currently learning Golang.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PeterAlbus&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
