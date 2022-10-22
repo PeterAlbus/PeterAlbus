@@ -1,7 +1,7 @@
 ### Hello world! 👋
 
 - :eight_pointed_black_star: I'm PeterAlbus.
-- :orange_book: I studied at Shanghai Ocean University for my undergraduate degree.
+- :orange_book: I studied at SHOU for my undergraduate degree.
 - :school: I am about to attend postgraduate studies at ECUST.
 - :signal_strength: I am developing and maintaining my personal [blog](https://peteralbus.com).
 - 🌱 I’m currently learning Golang.
