@@ -1,19 +1,11 @@
 ### Hello world! 👋
 
-- I'm PeterAlbus.
+- :eight_pointed_black_star: I'm PeterAlbus.
+- :orange_book: I studied at Shanghai Ocean University for my undergraduate degree.
+- :school: I am about to attend postgraduate studies at ECUST.
+- :signal_strength: I am developing and maintaining my personal [blog](https://peteralbus.com).
+- 🌱 I’m currently learning Golang.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterAlbus)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**PeterAlbus/PeterAlbus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PeterAlbus&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
