@@ -4,9 +4,8 @@
 
 ### Hello world! 👋 This is PeterAlbus.
 
-- :orange_book: I studied at Shanghai Ocean University for my undergraduate degree.
-- :school: I am about to attend postgraduate studies at ECUST.
+- :orange_book: I graduated from Shanghai Ocean University with a bachelor's degree
+- :school: I am currently pursuing graduate studies at ECUST.
 - :signal_strength: I am developing and maintaining my personal [blog](https://peteralbus.com).
-- 🌱 I’m currently learning Golang.
-
+- 🌱 I’m currently learning Golang and DL.
 
